@@ -1,0 +1,1 @@
+Setting up a basic webpage using the introductory skills from The Odin Project
